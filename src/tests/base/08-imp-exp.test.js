@@ -43,6 +43,7 @@ describe('Pruebas en funciones de Heroes', () => {
         expect ( heroes.length).toBe(2);
     })
     
+
     
     //onwer.
     // toEqual al arreglo filtrado.
